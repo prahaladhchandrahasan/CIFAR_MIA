@@ -1,0 +1,61 @@
+Shadow_Model_1
+Test Accuracy: 96.88%
+Precision: 0.9695
+Recall: 0.9688
+F1 Score: 0.9688
+
+Epoch [20/20], Train_Loss: 0.1506, Train_Accuracy: 96.8800
+Test Accuracy: 81.20%
+Precision: 0.8184
+Recall: 0.8120
+F1 Score: 0.8136
+
+Shadow_Model2
+Test Accuracy: 98.65%
+Precision: 0.9866
+Recall: 0.9865
+F1 Score: 0.9865
+
+
+Epoch [20/20], Train_Loss: 0.1213, Train_Accuracy: 97.9900
+Test Accuracy: 82.65%
+Precision: 0.8324
+Recall: 0.8265
+F1 Score: 0.8276
+
+Shadow_Model3
+Test Accuracy: 98.48%
+Precision: 0.9850
+Recall: 0.9848
+F1 Score: 0.9848
+
+Epoch [20/20], Train_Loss: 0.1564, Train_Accuracy: 96.4900
+Test Accuracy: 82.60%
+Precision: 0.8257
+Recall: 0.8260
+F1 Score: 0.8249
+
+Shadow_Model_4
+Test Accuracy: 98.92%
+Precision: 0.9894
+Recall: 0.9892
+F1 Score: 0.9892
+
+Epoch [20/20], Train_Loss: 0.1047, Train_Accuracy: 98.5000
+Test Accuracy: 82.30%
+Precision: 0.8229
+Recall: 0.8230
+F1 Score: 0.8212
+
+Shadow_Model_5
+
+Test Accuracy: 98.70%
+Precision: 0.9871
+Recall: 0.9870
+F1 Score: 0.9870
+
+Epoch [20/20], Train_Loss: 0.1162, Train_Accuracy: 98.0500
+Test Accuracy: 82.30%
+Precision: 0.8257
+Recall: 0.8230
+F1 Score: 0.8227

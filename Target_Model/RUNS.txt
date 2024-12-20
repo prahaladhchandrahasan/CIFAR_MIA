@@ -1,0 +1,11 @@
+RUN1
+Epoch [20/20], Train_Loss: 0.0099, Train_Accuracy: 99.9900
+Test Accuracy: 70.33%
+Precision: 0.7028
+Recall: 0.7033
+F1 Score: 0.7028
+
+Train Accuracy: 99.99%
+Precision: 0.9999
+Recall: 0.9999
+F1 Score: 0.9999
